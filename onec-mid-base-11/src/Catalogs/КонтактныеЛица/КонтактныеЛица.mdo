@@ -158,7 +158,7 @@
       <value>Должность</value>
     </synonym>
     <type>
-      <types>CatalogRef.ДОПДолжности</types>
+      <types>CatalogRef.Должности</types>
     </type>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
